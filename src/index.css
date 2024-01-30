@@ -51,6 +51,7 @@ article {
 
 article p {
   margin-top: 0.25rem;
+  letter-spacing: 1px;
 }
 
 article h3 {
